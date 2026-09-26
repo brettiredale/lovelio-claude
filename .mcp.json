@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "lovelio-us": {
+      "type": "http",
+      "url": "https://us.lovelio.ai/api/mcp"
+    },
+    "lovelio-eu": {
+      "type": "http",
+      "url": "https://eu.lovelio.ai/api/mcp"
+    },
+    "lovelio-anz": {
+      "type": "http",
+      "url": "https://anz.lovelio.ai/api/mcp"
+    }
+  }
+}
