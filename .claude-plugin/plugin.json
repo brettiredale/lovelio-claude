@@ -10,6 +10,7 @@
   },
   "homepage": "https://lovelio.ai/docs/mcp",
   "privacyPolicyUrl": "https://lovelio.ai/privacy",
+  "supportUrl": "https://lovelio.ai/contact",
   "repository": "https://github.com/brettiredale/lovelio-claude",
   "license": "MIT",
   "keywords": [
