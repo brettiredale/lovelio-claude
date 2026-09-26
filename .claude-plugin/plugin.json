@@ -9,7 +9,16 @@
     "url": "https://lovelio.ai"
   },
   "homepage": "https://lovelio.ai/docs/mcp",
+  "privacyPolicyUrl": "https://lovelio.ai/privacy",
   "repository": "https://github.com/brettiredale/lovelio-claude",
   "license": "MIT",
-  "keywords": ["lovelio", "ats", "recruitment", "recruitment agency", "staffing", "candidates", "placements"]
+  "keywords": [
+    "lovelio",
+    "ats",
+    "recruitment",
+    "recruitment agency",
+    "staffing",
+    "candidates",
+    "placements"
+  ]
 }
