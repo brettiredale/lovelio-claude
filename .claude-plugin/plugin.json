@@ -1,8 +1,9 @@
 {
   "name": "lovelio",
   "displayName": "Lovelio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run your recruitment agency's Lovelio desk from Claude: find candidates, work a job's shortlist, send submissions to clients and log placements. Covers the US, EU and ANZ regions.",
+  "icon": "./icon.svg",
   "author": {
     "name": "Lovelio",
     "email": "support@lovelio.ai",

@@ -1,3 +1,5 @@
+![Lovelio](icon.svg)
+
 # Lovelio for Claude
 
 Lovelio is the ATS for recruitment agencies. This plugin connects Claude to your agency's Lovelio account, so you can run your desk in plain English: find candidates for a job, work the shortlist, send candidates to a client, chase the client, and log offers and placements.
